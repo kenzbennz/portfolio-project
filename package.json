@@ -1,0 +1,24 @@
+{
+  "name": "KenzieMadkins",
+  "version": "1.0.0",
+  "description": "## This is an even smaller header",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenzbennz/portfolio-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenzbennz/portfolio-project/issues"
+  },
+  "homepage": "https://github.com/kenzbennz/portfolio-project#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "parcel-bundler": "^1.12.3"
+  }
+}
