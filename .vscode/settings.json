@@ -1,0 +1,5 @@
+{
+    "editor.fontFamily": "'Scope One'",
+    "files.autoSave": "onFocusChange",
+    "workbench.editor.swipeToNavigate": true
+}
